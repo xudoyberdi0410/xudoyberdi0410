@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Khudoyberdi! 👋
 
-<!--
-**xudoyberdi0410/xudoyberdi0410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a dedicated backend student at [Fergana State Technical University](https://fstu.uz), passionate about building robust and scalable APIs.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Student at FSTU, specializing in backend development.
+- 🛠️ Skilled in **Python**, **JavaScript**, and **FastAPI**.
+- 📚 Committed to continuous learning and backend engineering excellence.
+
+## 🏆 Featured Project
+
+### [task-manager-api](https://github.com/xudoyberdi0410/task-manager-api)
+A powerful and efficient task management API, designed to help users organize and track their work effortlessly. Built with FastAPI and Python, this project demonstrates my commitment to clean code and practical solutions.
+
+## 📫 Connect with Me
+
+- Telegram: [@khudoberdi0410](https://t.me/khudoberdi0410)
+- Email: [xudoyberdi0410@gmail.com](mailto:xudoyberdi0410@gmail.com)
+
+---
+
+Thanks for visiting my profile!
